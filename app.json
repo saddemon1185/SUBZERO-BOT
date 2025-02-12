@@ -80,7 +80,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐅𝐫𝐚𝐧𝐤"
+      "value": "uchiha md"
 }, 
 
     "OWNER_NUMBER": {
@@ -93,7 +93,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SUBZERO-MD"
+      "value": "uchiha-MD"
 
       }, 
 
@@ -113,7 +113,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ*"
+      "value": "*© Reincarnated ʙʏ Uchiha*"
     },
 
       "DELETE_LINKS": {
